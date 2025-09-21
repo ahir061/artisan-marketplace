@@ -1,0 +1,9 @@
+{
+  "name": "Shilpo AI",
+  "description": "An AI-driven platform that helps local artisans market their craft, tell their stories, and expand their reach to new digital audiences.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
